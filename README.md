@@ -4,4 +4,4 @@ I started creating this module as a playground for testing how to write modules 
 
 This module is still work in progress and so is this README.
 
-Please stand bye while I proctrastinate.
+Please stand by while I proctrastinate.
